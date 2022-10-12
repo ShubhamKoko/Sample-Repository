@@ -1,5 +1,5 @@
 class Demo{
-    public static void main(String args[]){
-        System.out.println("Demo Program ");
-    }
+   public void m2(){
+    System.out.println("Inside m2()");
+   }
 }
